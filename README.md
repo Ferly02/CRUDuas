@@ -4,9 +4,6 @@ kelas  :TI.23.A5
 
 <h2>project web<h2>
 
-data base my sql
-<img src="">
-
 halaman awal login
 <img src="screenshot/ss 4.png">
 
@@ -15,6 +12,9 @@ halaman awal CRUD
 
 halaman pagisian data 
 <img src="screenshot/Ss 2.jpeg">
+
+halaman hasil data 
+
 
 
 
