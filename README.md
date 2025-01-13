@@ -8,7 +8,7 @@ data base my sql
 <img src="Hasil-SSan/db.png">
 
 halaman awal login
-<img src="Hasil-SSan/db.png">
+<img src="screenshot/ss 4.png">
 
 halaman awal CRUD
 <img src="Hasil-SSan/db.png">
