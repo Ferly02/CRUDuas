@@ -14,7 +14,7 @@ halaman pagisian data
 <img src="screenshot/Ss 2.jpeg">
 
 halaman hasil data 
-
+<img src="screenshot/Ss 1.jpeg">
 
 
 
