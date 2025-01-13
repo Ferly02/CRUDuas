@@ -4,5 +4,19 @@ kelas  :TI.23.A5
 
 <h2>project web<h2>
 
+data base my sql
+<img src="Hasil-SSan/db.png">
+
+halaman awal login
+<img src="Hasil-SSan/db.png">
+
+halaman awal CRUD
+<img src="Hasil-SSan/db.png">
+
+halaman pagisian data 
+<img src="Hasil-SSan/db.png">
+
+
+
 
 
