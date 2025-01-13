@@ -14,7 +14,7 @@ halaman awal CRUD
 <img src="screenshot/ss 3.png">
 
 halaman pagisian data 
-<img src="">
+<img src="screenshot/Ss 2.jpeg">
 
 
 
